@@ -45,4 +45,15 @@ This Selenium test automates the following steps:
 - The `Thread.sleep` statements are used for demonstration purposes and may need adjustment based on the speed of your system and network.
 - Make sure to update the ChromeDriver version if necessary.
 
-Feel free to customize this code according to your needs or use it as a reference for your Selenium testing projects.
+  ### Maven Enviroment
+user variables for [user]
+
+[![Screenshot-2024-01-03-213900.png](https://i.postimg.cc/mgQ5pW1F/Screenshot-2024-01-03-213900.png)](https://postimg.cc/K18f4VNZ)
+
+
+system variables
+
+[![Screenshot-2024-01-03-213916.png](https://i.postimg.cc/yY359ZVj/Screenshot-2024-01-03-213916.png)](https://postimg.cc/561nWjQQ)
+
+
+### Feel free to customize this code according to your needs or use it as a reference for your Selenium testing projects.
